@@ -7,5 +7,5 @@ The rest are the once that I tried and didn't get satisfactory results.
 
 
 
-Do install the following : 
+Do install the following :                                                                                         
 !pip install sklearn_crfsuite    (sklean_crfsuite)
